@@ -94,7 +94,19 @@ namespace Modelos
      
          }
 
+        //Metodo para buscar
+        public static DataTable Buscar(string termino)
+        {
+            SqlConnection con = Conexion.Conectar();
+            string comando = $"select * from Peliculas where nombre like '%{termino}%';";
+            SqlDataAdapter ad = new SqlDataAdapter(comando, con);
+            DataTable dt = new DataTable();
+            ad.Fill(dt);
+            return dt;
 
-        
+        }
+
+
+
     }
 }

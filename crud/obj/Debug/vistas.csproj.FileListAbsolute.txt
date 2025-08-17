@@ -38,3 +38,17 @@ C:\Users\perez\OneDrive\Desktop\CRUD-con-SQL\crud\obj\Debug\vistas.csproj.CoreCo
 C:\Users\perez\OneDrive\Desktop\CRUD-con-SQL\crud\obj\Debug\vistas.csproj.Up2Date
 C:\Users\perez\OneDrive\Desktop\CRUD-con-SQL\crud\obj\Debug\crud.exe
 C:\Users\perez\OneDrive\Desktop\CRUD-con-SQL\crud\obj\Debug\crud.pdb
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\bin\Debug\crud.exe.config
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\bin\Debug\crud.exe
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\bin\Debug\crud.pdb
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\bin\Debug\Modelos.dll
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\bin\Debug\Modelos.pdb
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\crud.exe.config
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\crud.frmPeliculas.resources
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\vistas.csproj.Up2Date
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\crud.exe
+C:\Users\perez\OneDrive\Desktop\Nuevo-crud---Peliculas\crud\obj\Debug\crud.pdb

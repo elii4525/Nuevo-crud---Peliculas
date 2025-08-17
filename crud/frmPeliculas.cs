@@ -124,6 +124,17 @@ namespace crud
                 
         }
 
-
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                dgvPeliculas.DataSource = null;
+                dgvPeliculas.DataSource = Peliculas.Buscar(txtBuscar.Text);
+            }
+            catch (Exception ex) 
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }
